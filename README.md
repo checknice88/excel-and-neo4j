@@ -10,7 +10,9 @@
 1. 打开 Windows 命令提示符。
 2. 切换到 `requirements.txt` 文件所在的目录，在命令提示符中输入 `cd C:\路径\实际所在的路径，然后按回车键。
 3. 在命令行中输入  
-```pip install -r requirements.txt``` 
+```py
+pip install -r requirements.txt
+```
 
 ## 项目运行
 运行项目
